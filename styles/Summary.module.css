@@ -1,0 +1,9 @@
+.MainBody{
+    min-height: 100vh;
+    width: 100vw;
+    background-color: #2E3440;
+    color: #ECEFF4;
+}
+.ChartLine{
+    height: 20vh;
+}
